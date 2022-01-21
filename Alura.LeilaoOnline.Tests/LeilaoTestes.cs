@@ -3,8 +3,9 @@ using Xunit;
 
 namespace Alura.LeilaoOnline.Tests
 {
-    class LeilaoTestes
+    public class LeilaoTestes
     {
+        [Fact]
         public void LeilaoComVariosLances()
         {
             // Arrange
@@ -26,6 +27,7 @@ namespace Alura.LeilaoOnline.Tests
 
         }
 
+        [Fact]
         public void LeilaoComApenasUmLance()
         {
             // Arrange
@@ -42,6 +44,5 @@ namespace Alura.LeilaoOnline.Tests
             var valorObtido = leilao.Ganhador.Valor;
             Assert.Equal(valorEsperado, valorObtido);
         }
-
     }
 }

@@ -63,7 +63,6 @@ namespace Alura.LeilaoOnline.ConsoleApp
             LeilaoComVariosLances();
             LeilaoComApenasUmLance();
 
-
         }
     }
 }
