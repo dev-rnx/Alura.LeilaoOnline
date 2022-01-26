@@ -96,43 +96,53 @@ namespace Alura.LeilaoOnline.Tests
 
         // Substitui os 4 testes acima
         [Theory]
-        [InlineData(1200, new double[] { 800, 900, 1000, 1200 })] // LeilaoComVariosLances / LeilaoComLancesOrdenadosPorValor
-        [InlineData(1000, new double[] { 800, 900, 1000, 990 })] // LeilãoDesordenados
-        [InlineData(800, new double[] { 800 })] // LeilaoComApenasUmLance
-        public void RetornaMaiorValorDadoLeilaoComPeloMenosUmLance(double valorEsperado, double[] ofertas)
+        [InlineData(1200, new double[] { 800, 900, 1000, 1200 })]
+        [InlineData(1000, new double[] { 800, 900, 1000, 990 })]
+        [InlineData(800, new double[] { 800 })]
+        public void RetornaMaiorValorDadoLeilaoComPeloMenosUmLance(
+            double valorEsperado,
+            double[] ofertas)
         {
-            // Arrange
+            //Arranje - cenário
             var leilao = new Leilao("Van Gogh");
             var fulano = new Interessada("Fulano", leilao);
-           
-            foreach (var valor in ofertas)
+            var maria = new Interessada("Maria", leilao);
+            leilao.IniciaPregao();
+            for (int i = 0; i < ofertas.Length; i++)
             {
-                leilao.RecebeLance(fulano, valor);
+                var valor = ofertas[i];
+                if ((i % 2) == 0)
+                {
+                    leilao.RecebeLance(fulano, valor);
+                }
+                else
+                {
+                    leilao.RecebeLance(maria, valor);
+                }
             }
 
-            // Act
+            //Act - método sob teste
             leilao.TerminaPregao();
 
-            // Assert
+            //Assert
             var valorObtido = leilao.Ganhador.Valor;
             Assert.Equal(valorEsperado, valorObtido);
+
         }
 
         [Fact]
         public void RetornaZeroDadoLeilaoSemLances()
         {
-            // Arrange
-            // Dado (GIVEN) leilão com 3 clientes e lances realizados por eles
+            //Arranje - cenário
             var leilao = new Leilao("Van Gogh");
 
-            // Act
-            // Quando (WHEN) o leilão/pregão termina 
+            //Act - método sob teste
             leilao.TerminaPregao();
 
-            // Assert
-            // Então (THEN) o valor esperado é o maior lance dado pelo cliente
+            //Assert
             var valorEsperado = 0;
             var valorObtido = leilao.Ganhador.Valor;
+
             Assert.Equal(valorEsperado, valorObtido);
         }
     }
