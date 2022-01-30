@@ -1,4 +1,5 @@
 ﻿using Alura.LeilaoOnline.Core;
+using System;
 using Xunit;
 
 namespace Alura.LeilaoOnline.Tests
@@ -99,9 +100,7 @@ namespace Alura.LeilaoOnline.Tests
         [InlineData(1200, new double[] { 800, 900, 1000, 1200 })]
         [InlineData(1000, new double[] { 800, 900, 1000, 990 })]
         [InlineData(800, new double[] { 800 })]
-        public void RetornaMaiorValorDadoLeilaoComPeloMenosUmLance(
-            double valorEsperado,
-            double[] ofertas)
+        public void RetornaMaiorValorDadoLeilaoComPeloMenosUmLance(double valorEsperado, double[] ofertas)
         {
             //Arranje - cenário
             var leilao = new Leilao("Van Gogh");
@@ -131,10 +130,27 @@ namespace Alura.LeilaoOnline.Tests
         }
 
         [Fact]
+        public void LancaInvalidOperationExceptionDadoPregaoNaoIniciado()
+        {
+            //Arranje - cenário
+            var leilao = new Leilao("Van Gogh");
+
+            // Assert (Testando exceções)
+            var excecaoObtida = Assert.Throws<InvalidOperationException>(
+                //Act - método sob teste
+                () => leilao.TerminaPregao()
+            );
+
+            var msgEsperada = "Não é possível terminar o pregão sem que ele tenha começado. Para isso, utilize o método IniciaPregão().";
+            Assert.Equal(msgEsperada, excecaoObtida.Message);
+        }
+
+        [Fact]
         public void RetornaZeroDadoLeilaoSemLances()
         {
             //Arranje - cenário
             var leilao = new Leilao("Van Gogh");
+            leilao.IniciaPregao();
 
             //Act - método sob teste
             leilao.TerminaPregao();
