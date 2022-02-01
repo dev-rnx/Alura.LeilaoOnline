@@ -28,8 +28,7 @@ namespace Alura.LeilaoOnline.Tests
         [Theory]
         [InlineData(4, new double[] { 1000, 1200, 1400, 1300 })]
         [InlineData(2, new double[] { 800, 900 })]
-        public void NaoPermiteNovosLancesDadoLeilaoFinalizado(
-            int qtdeEsperada, double[] ofertas)
+        public void NaoPermiteNovosLancesDadoLeilaoFinalizado(int qtdeEsperada, double[] ofertas)
         {
             //Arranje - cenário
             IModalidadeAvaliacao modalidade = new MaiorValor();
