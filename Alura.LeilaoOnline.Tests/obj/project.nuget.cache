@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p7YgE13Uriu1ONoYMD/PVixp3FYLSpzWpy0vK7OXjYdtlHC6fBBLpJPnslWzQwxEmgqyASaqFcWIkWI/l8f54w==",
+  "dgSpecHash": "vq4Iq/Pp5kHepz+9ECWSl7oDa3kZUA28UhwJZ+cGjyahObl5RdvPLEzKcGnC2egmkzSlfx5zLagqfRYhP8+ruA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\renna\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Tests\\Alura.LeilaoOnline.Tests.csproj",
+  "projectFilePath": "D:\\Programming\\Repos GitHub\\.NET\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Tests\\Alura.LeilaoOnline.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\renna\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\renna\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

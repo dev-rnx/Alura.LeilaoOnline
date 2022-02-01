@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tfPmOtz58vTmTZDuEt5bZL6a6ThC2HPtV0ifSs/KZN/NDKD4H5E0YRNAkfDJ3aE2dm4gmM9K5vBxZiGzipKygw==",
+  "dgSpecHash": "myydOT09QWyYelT9iEFGb0ATVaOnYgACyAF8Itb34OJJsYdqiI6RwMaPSzjqQFjePWLajKNGS3EnaqL8Eo6vIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\renna\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+  "projectFilePath": "D:\\Programming\\Repos GitHub\\.NET\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\renna\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\renna\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

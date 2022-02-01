@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renna\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
+      "projectUniqueName": "D:\\Programming\\Repos GitHub\\.NET\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
       "projectName": "Alura.LeilaoOnline.ConsoleApp",
-      "projectPath": "C:\\Users\\renna\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
+      "projectPath": "D:\\Programming\\Repos GitHub\\.NET\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\renna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renna\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\obj\\",
+      "outputPath": "D:\\Programming\\Repos GitHub\\.NET\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\renna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\renna\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
-              "projectPath": "C:\\Users\\renna\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj"
+            "D:\\Programming\\Repos GitHub\\.NET\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
+              "projectPath": "D:\\Programming\\Repos GitHub\\.NET\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj"
             }
           }
         }

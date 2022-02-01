@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Alura.LeilaoOnline.Tests
-build_property.ProjectDir = C:\Users\renna\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\
+build_property.ProjectDir = D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\

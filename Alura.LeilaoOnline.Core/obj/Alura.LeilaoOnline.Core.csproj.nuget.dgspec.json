@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\renna\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {}
+    "D:\\Programming\\Repos GitHub\\.NET\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\renna\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
+    "D:\\Programming\\Repos GitHub\\.NET\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renna\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+        "projectUniqueName": "D:\\Programming\\Repos GitHub\\.NET\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
         "projectName": "Alura.LeilaoOnline.Core",
-        "projectPath": "C:\\Users\\renna\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+        "projectPath": "D:\\Programming\\Repos GitHub\\.NET\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
         "packagesPath": "C:\\Users\\renna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renna\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\obj\\",
+        "outputPath": "D:\\Programming\\Repos GitHub\\.NET\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\renna\\AppData\\Roaming\\NuGet\\NuGet.Config",

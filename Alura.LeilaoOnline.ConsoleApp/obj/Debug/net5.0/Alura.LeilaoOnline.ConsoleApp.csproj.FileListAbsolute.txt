@@ -17,3 +17,22 @@ C:\Users\renna\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj
 C:\Users\renna\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\net5.0\ref\Alura.LeilaoOnline.ConsoleApp.dll
 C:\Users\renna\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.pdb
 C:\Users\renna\source\repos\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.genruntimeconfig.cache
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.exe
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.deps.json
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.runtimeconfig.json
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.runtimeconfig.dev.json
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.dll
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\net5.0\ref\Alura.LeilaoOnline.ConsoleApp.dll
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.pdb
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\net5.0\Alura.LeilaoOnline.Core.dll
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\net5.0\Alura.LeilaoOnline.Core.pdb
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.csproj.AssemblyReference.cache
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.AssemblyInfoInputs.cache
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.AssemblyInfo.cs
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.csproj.CopyComplete
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.dll
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\net5.0\ref\Alura.LeilaoOnline.ConsoleApp.dll
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.pdb
+D:\Programming\Repos GitHub\.NET\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\net5.0\Alura.LeilaoOnline.ConsoleApp.genruntimeconfig.cache
